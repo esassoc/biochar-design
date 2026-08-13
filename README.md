@@ -1,5 +1,10 @@
 # @biochar/design
 
+> **Superseded 2026-08-13.** ESA won the Biochar Atlas Phase 1 contract, and
+> active design moved to
+> [esassoc/biochar-atlas-design](https://github.com/esassoc/biochar-atlas-design).
+> This repo is the interview-era prototype, kept as a record. Do not build here.
+
 The **Biochar Atlas** design spoke — the brand and prototype layer for a
 **Biochar Suitability Tool**, built on the **[ESA Ecology](../ecology)** hub
 design system.
